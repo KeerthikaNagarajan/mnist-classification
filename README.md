@@ -114,15 +114,25 @@ print(x_single_prediction)
 ## OUTPUT
 
 ### Training Loss, Validation Loss Vs Iteration Plot
+<img width="440" alt="1" src="https://github.com/KeerthikaNagarajan/mnist-classification/assets/93427089/fbff7a21-0a7b-47ff-acbe-a7ae0075e4ae">
 
+### Accuracy, Validation Accuracy Vs Iteration:
+<img width="442" alt="2" src="https://github.com/KeerthikaNagarajan/mnist-classification/assets/93427089/646e0345-ef94-4b13-a917-3660822b2497">
 
 ### Classification Report
+<img width="335" alt="3" src="https://github.com/KeerthikaNagarajan/mnist-classification/assets/93427089/8ff7c854-4640-4875-8fa7-cfab92c52500">
 
 
 ### Confusion Matrix
+<img width="326" alt="4" src="https://github.com/KeerthikaNagarajan/mnist-classification/assets/93427089/4ae9a5bb-189b-41a0-92bf-9f1fd0f9fe95">
 
 
-### New Sample Data Prediction
+### New Sample 
+<img width="326" alt="5" src="https://github.com/KeerthikaNagarajan/mnist-classification/assets/93427089/7594e371-a942-4f8a-86c9-de1dda9c7fea">
+
+### Data Prediction
+<img width="169" alt="6" src="https://github.com/KeerthikaNagarajan/mnist-classification/assets/93427089/1423a484-adc2-4e42-8f7c-503826eaeab7">
 
 
 ## RESULT
+A convolutional deep neural network for digit classification and to verify the response for scanned handwritten images is developed sucessfully.
